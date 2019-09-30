@@ -9,7 +9,7 @@ The code works on 3D triangle meshes. It can be modified to arbitrary graphs, e.
 
 ## Assumptions
 1) Deformation between shapes doesn't have to be rigid.
-2) Deformation between shapes should be nearly isometry (i.e. one shape is some nearly elastic bending of the other one).
+2) Deformation between shapes should be nearly isometric (i.e. one shape is some nearly elastic bending of the other one).
 3) Shapes can have different number of points.
 4) Shapes must have the same topology (cannot deal with partial correspondence, or a hole in one shape that is not in the other one).
 
