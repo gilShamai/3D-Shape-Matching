@@ -23,7 +23,7 @@ The project was tested on OSX with Matlab R2019a, and should work on windows 64 
 
 
 ## Citation
-If you use these ideas, please cite the paper <a href="https://docs.wixstatic.com/ugd/28cd82_bb48e8cf06984a18b6016997beda5e4f.pdf"> Geodesic Distance Descriptors </a>. This paper is using the pairwise geodesic distances. For this code Please cite also and (2) <a href="https://ieeexplore.ieee.org/abstract/document/8509134"> Efficient Inter-Geodesic Distance Computation and Fast Classical Scaling</a> and (3) <a href="https://docs.wixstatic.com/ugd/28cd82_91f41197b793480ab25b1f97f10f818a.pdf">Accelerating the computation of canonical forms for 3D nonrigid objects using Multidimensional Scaling </a>:
+If you use these ideas, please cite the papers (1) <a href="https://docs.wixstatic.com/ugd/28cd82_bb48e8cf06984a18b6016997beda5e4f.pdf"> Geodesic Distance Descriptors </a>, (2) <a href="https://ieeexplore.ieee.org/abstract/document/8509134"> Efficient Inter-Geodesic Distance Computation and Fast Classical Scaling</a> and (3) <a href="https://docs.wixstatic.com/ugd/28cd82_91f41197b793480ab25b1f97f10f818a.pdf">Accelerating the computation of canonical forms for 3D nonrigid objects using Multidimensional Scaling </a>. 
 
 ```
 @inproceedings{shamai2017geodesic,
