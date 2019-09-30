@@ -3,7 +3,7 @@ A Matlab implementation of the paper "geodesic distance descriptors" for 3D non-
 
 [[Paper 1]](https://ieeexplore.ieee.org/abstract/document/8509134) [[Paper 2]](https://docs.wixstatic.com/ugd/28cd82_91f41197b793480ab25b1f97f10f818a.pdf) [[Main paper]](https://docs.wixstatic.com/ugd/28cd82_bb48e8cf06984a18b6016997beda5e4f.pdf)
 
-The code works on 3D triangle meshes. It can be modified to arbitrary graphs, e.g. creating graphs from 3D cloud points but connecting near neighbors.
+The code works on 3D triangle meshes. It can be modified to arbitrary graphs, e.g. creating graphs from 3D cloud points by connecting near neighbors.
 
 <img align="right" img src="Images/Vis_pic.png" width="400px">
 
