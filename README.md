@@ -5,7 +5,7 @@ A Matlab implementation of the paper "geodesic distance descriptors" for 3D non-
 
 The code works on 3D triangle meshes. It can be modified to arbitrary graphs, e.g. creating graphs from 3D cloud points but connecting near neighbors.
 
-<img align="right" img src="Images/Viz_pic.png" width="400px">
+<img align="right" img src="Images/Vis_pic.png" width="400px">
 
 ## Assumptions
 (1) Deformation between shapes doesn't have to be rigid.
